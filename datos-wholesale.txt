@@ -1,0 +1,8 @@
+2
+camion 1,1
+viaje 1,2
+Carlos,leche,fruta,verdura
+Santiago,fruta,verdura
+camion 2,1
+viaje 2;1
+Camila,false,torta
